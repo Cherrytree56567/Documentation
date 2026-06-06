@@ -4,6 +4,8 @@
 |:---------------------------------------------------------------------------------------:|-------------------------------------------------------------|-------------------------------------|
 |        ![ViTaLC0D3R](https://avatars.githubusercontent.com/TylerJaacks?size=64)         | [TylerJaacks](https://github.com/TylerJaacks)               | Owner & Founder, Developer          |
 |     ![DexrnZacAttack](https://avatars.githubusercontent.com/DexrnZacAttack?size=64)     | [DexrnZacAttack](https://github.com/DexrnZacAttack)         | Management, Developer, UI Developer |
+|             ![Patoke](https://avatars.githubusercontent.com/RodX2010?size=64)           | [RodX2010](https://github.com/RodX2010)                     | Developer                           |
+|             ![Patoke](https://avatars.githubusercontent.com/Cherrytree56567?size=64)    | [CT5](https://github.com/Cherrytree56567)                   | Developer                           |
 |             ![Patoke](https://avatars.githubusercontent.com/Patoke?size=64)             | [Patoke](https://github.com/Patoke)                         | Developer                           |
 |         ![notunixian](https://avatars.githubusercontent.com/notunixian?size=64)         | [notunixian](https://github.com/notunixian)                 | Developer                           |
 |       ![AleBello7276](https://avatars.githubusercontent.com/AleBello7276?size=64)       | [AleBello7276](https://github.com/AleBello7276)             | Developer                           |
